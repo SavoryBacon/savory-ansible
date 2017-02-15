@@ -1,3 +1,0 @@
-[submodule "playbooks/library"]
-	path = playbooks/library
-	url = https://github.com/SavoryBacon/savory-ansible-modules.git
